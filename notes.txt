@@ -1,0 +1,9 @@
+参数含义：
+
+AF_INET 			AF 为 ADDRESS FAMILY 地址族。该参数表示利用 ipv4 进行通信
+AF_INET6			利用 ipv6 进行通信
+AF_UNIX			利用 Unix 本地系统通信
+
+SOCK_STREAM 		流形式，TCP		
+SOCK_DGRAM		数据报形式，UDP
+
